@@ -1,3 +1,5 @@
+document.getElementById("botonesEdades").onclick = verificarEdad
+
 function verificarEdad(){
     console.log("Ingreso a verificarEdad");
     let edad = document.getElementById('edad').value;
@@ -24,4 +26,8 @@ function verificarEdad(){
     }
  
  
+}
+
+function verificarEdades(){
+    alert ("otro id")
 }
