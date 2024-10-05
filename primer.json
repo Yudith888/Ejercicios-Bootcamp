@@ -1,0 +1,26 @@
+{
+    "titulo": "nuevos diseños 2025",
+
+    "nuevosdisenos":[
+        {
+            "nombre":"Camisa formal",
+            "descripcion":"Camisa de botones y manga larga",
+            "colores":["Azul","Blanca", "Roja", "Negra"],
+            "Tallas":["M","S", "L", "XL", "XXL", "XXXL"]
+        },
+
+        {
+            "nombre":"Conjunto formal (Hombre)",
+            "descripcion":"Conjunto pantalon y saco elegante",
+            "colores":["Azul","Blanco", "Rojo", "Negro"],
+            "Tallas":["M","S", "L", "XL", "XXL", "XXXL"]
+        }
+
+        
+
+
+    ]
+
+    
+    
+}
